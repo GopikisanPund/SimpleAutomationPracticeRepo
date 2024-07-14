@@ -1,0 +1,12 @@
+<html>
+
+<head>
+<Title>"iframe Page"</Title>
+</head>
+
+<body>
+		<h1>Main Page</h1>
+    <iframe src="https://www.example.com" width="600" height="400"></iframe>
+</body>
+
+</html>
